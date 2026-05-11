@@ -1,21 +1,5 @@
 [
   {
-    "name": "Мойка воздуха Boneco W200 - с 11 мая",
-    "url": "https://eldorado.am/ru/boneco-w200",
-    "imageUrl": "img/airwasher.jpg",
-    "originalPrice": 100000,
-    "price": 50000,
-    "details": [
-      "Необходимая вещь с учетом сухого климата и в среднем большого числа PM2.5 в Ереване",
-      "Площадь покрытия - 50 м²",
-      "Объем резервуара для воды - 4.5 л",
-      "Максимальный уровень шума - 30 дБ",
-      "Добавление воды - примерно раз в день, мытье поддона - примерно раз в неделю"
-    ],
-    "state": "reserved",
-    "purchaser": "id"
-  },
-  {
     "name": "Очиститель воздуха AIC XJ-3900 - с 11 мая",
     "url": "https://air-seller.ru/katalog/ochistiteli-vozduha/aic-xj-3900",
     "imageUrl": "img/aircleaner.jpg",
@@ -45,21 +29,6 @@
       "Пылесборник, бак для воды"
     ],
     "state": "available",
-    "purchaser": "id"
-  },
-  {
-    "name": "Отпариватель SCARLETT SC-GS135S33 - с 11 мая",
-    "url": "https://www.scarlett.ru/catalog/dlya-doma/otparivateli/itm_sc-gs135s33/",
-    "imageUrl": "img/steamiron.jpg",
-    "originalPrice": 8000,
-    "price": 2000,
-    "details": [
-      "Съемный резервуар 200 мл",
-      "Регулируемый пар до г/мин: 25",
-      "Готовность к работе, сек: 25",
-      "Работает приемлемо"
-    ],
-    "state": "reserved",
     "purchaser": "id"
   },
     {
@@ -97,10 +66,6 @@
     "price": 0,
     "details": [
       "ДОСТУПНЫ СЕЙЧАС",
-      "1 - Монстерра большая с основанием - 2000 AMD ЗАБРОНИРОВАНО",
-      "2 - Фикус Бенджамина - 2000 AMD ЗАБРОНИРОВАНО",
-      "3 - Монстерра средняя - 1500 AMD ЗАБРОНИРОВАНО",
-      "4 - Драцена Марджината, растроенная на конце - 2000 AMD ЗАБРОНИРОВАНО",
       "5 - Монстерра маленькая - 1000 AMD ЗАБРОНИРОВАНО",
       "6 - Сухой Борщевик - 0 AMD",
       "7 - Хлорофитум Хохлатый - 500 AMD ЗАБРОНИРОВАНО",
@@ -111,31 +76,6 @@
       "12 - Щучий Хвост - 500 AMD ЗАБРОНИРОВАНО"
     ],
     "state": "available",
-    "purchaser": "id"
-  },
-   {
-    "name": "Грунт и прочее для растений- ДОСТУПНЫ СЕЙЧАС",
-    "url": "img/plantsparts.jpg",
-    "imageUrl": "img/plantsparts.jpg",
-    "originalPrice": 0,
-    "price": 1000,
-    "details": [
-      "ДОСТУПНЫ уже сейчас",
-      "Перлит, земля, песок, кокосовая стружка, удобрение, опрыскиватель"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-   {
-    "name": "Коврик для йоги",
-    "url": "https://www.wildberries.am/catalog/240176960/detail.aspx",
-    "imageUrl": "img/mat.jpg",
-    "originalPrice": 4000,
-    "price": 2000,
-    "details": [
-      "ДОСТУПEН уже сейчас"
-    ],
-    "state": "reserved",
     "purchaser": "id"
   },
      {
@@ -419,7 +359,7 @@
     "price": 0,
     "details": [
       "Хлопок",
-      "ЗЕЛЕНОЕ ЗАБРОНИРОВАНО"
+      "Зеленое куплено"
     ],
     "state": "available",
     "purchaser": "id"
@@ -573,21 +513,9 @@
     "purchaser": "id"
   },
 {
-    "name": "Вешалка железная прорезиненная, 13 шт. ",
+    "name": "Вешалка железная прорезиненная, 8 шт. ",
     "imageUrl": "img/ironhanger.jpg",
     "url": "img/ironhanger.jpg",
-    "originalPrice": 0,
-    "price": 0,
-    "details": [
-      "5 шт ЗАБРОНИРОВАНО"
-    ],
-    "state": "available",
-    "purchaser": "id"
-  },
-{
-    "name": "Вешалка для брюк, 7 шт. ",
-    "imageUrl": "img/pantshanger.jpg",
-    "url": "img/pantshanger.jpg",
     "originalPrice": 0,
     "price": 0,
     "details": [
