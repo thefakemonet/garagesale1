@@ -14,7 +14,7 @@ class App extends React.PureComponent {
            Самовывоз на ул. Аргишти. Тгк @natashakarpukhinaa
           <h4>О доступности уточняйте. Для закрепления товара за вами бронируйте. Доп.фото и информация по запросу</h4>
           <p>
-            Ближе к отъезду будет добавлена посуда и мелкие вещи (бесплатно) 
+            
           </p>
         </h3>
         <ProductList products={this.props.products} />
